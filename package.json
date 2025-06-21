@@ -1,0 +1,25 @@
+{
+  "name": "image-metadata-extractor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivam-verma-19/image-metadata-extractor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/shivam-verma-19/image-metadata-extractor/issues"
+  },
+  "homepage": "https://github.com/shivam-verma-19/image-metadata-extractor#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1692.0",
+    "sharp": "^0.34.2"
+  }
+}
