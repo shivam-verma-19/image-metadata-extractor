@@ -20,6 +20,6 @@
   "homepage": "https://github.com/shivam-verma-19/image-metadata-extractor#readme",
   "dependencies": {
     "aws-sdk": "^2.1692.0",
-    "sharp": "^0.34.2"
+    "sharp": "^0.34.3"
   }
 }
